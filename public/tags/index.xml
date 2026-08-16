@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Poetry</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/poetry-blog/tags/</link>
     <description>Recent content in Tags on Poetry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/poetry-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quiet</title>
-      <link>http://localhost:1313/tags/quiet/</link>
+      <link>http://localhost:1313/poetry-blog/tags/quiet/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quiet/</guid>
+      <guid>http://localhost:1313/poetry-blog/tags/quiet/</guid>
       <description></description>
     </item>
     <item>
       <title>Winter</title>
-      <link>http://localhost:1313/tags/winter/</link>
+      <link>http://localhost:1313/poetry-blog/tags/winter/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/winter/</guid>
+      <guid>http://localhost:1313/poetry-blog/tags/winter/</guid>
       <description></description>
     </item>
   </channel>
