@@ -3,7 +3,7 @@
   --text: #0d1b12;
   --muted: #6b6b60;
   --green: #1f7a3a; /* deep green */
-  --gold: #c79b2b;  /* warm gold */
+  --gold: #c79b2b; /* warm gold */
 }
 
 body {
@@ -58,7 +58,7 @@ h1.site-title {
 .poem-list .poem-item {
   margin: 0.6rem 0;
   padding: 0.35rem 0;
-  border-bottom: 1px solid rgba(0,0,0,0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -92,6 +92,10 @@ h1.site-title {
 }
 
 @media (max-width: 600px) {
-  body { padding: 1rem; }
-  .poem { padding: 1rem; }
+  body {
+    padding: 1rem;
+  }
+  .poem {
+    padding: 1rem;
+  }
 }
