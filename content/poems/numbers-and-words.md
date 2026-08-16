@@ -1,7 +1,7 @@
 ---
 title: "Numbers and Words"
 date: 2026-08-05T20:12:49-07:00
-draft: true
+draft: false
 ---
 
 Numbers were his first love, Words came later.
