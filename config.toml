@@ -9,3 +9,7 @@ paginate = 10
 
 [taxonomies]
   tag = "tags"
+
+# Use relative URLs so the site works correctly when served from a subpath (GitHub Pages)
+relativeURLs = true
+canonifyURLs = false
