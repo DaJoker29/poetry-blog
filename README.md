@@ -18,8 +18,7 @@ hugo
 
 Drop poem files into `content/poems/` as Markdown with front matter.
 
-Deploy via GitHub Pages
------------------------
+## Deploy via GitHub Pages
 
 1. Push this repository to GitHub (e.g., `origin` remote).
 2. The workflow runs on pushes to `main` or `master` and publishes the generated `public/` site to the `gh-pages` branch.
