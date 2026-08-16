@@ -6,20 +6,13 @@
     <description>Recent content in Tags on Poetry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:00:12 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/poetry-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quiet</title>
-      <link>http://localhost:1313/poetry-blog/tags/quiet/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poetry-blog/tags/quiet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Winter</title>
-      <link>http://localhost:1313/poetry-blog/tags/winter/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poetry-blog/tags/winter/</guid>
+      <title>Transformation</title>
+      <link>http://localhost:1313/poetry-blog/tags/transformation/</link>
+      <pubDate>Fri, 10 Jul 2026 20:00:12 -0700</pubDate>
+      <guid>http://localhost:1313/poetry-blog/tags/transformation/</guid>
       <description></description>
     </item>
   </channel>
