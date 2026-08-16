@@ -1,15 +1,15 @@
 
-baseURL = "https://example.com/"
+baseURL = "https://DaJoker29.github.io/poetry-blog/"
 languageCode = "en-us"
 title = "Poetry"
 paginate = 10
 
 [params]
-  author = "Your Name"
+  author = "D. Buckingham"
 
 [taxonomies]
   tag = "tags"
 
-# Use relative URLs so the site works correctly when served from a subpath (GitHub Pages)
-relativeURLs = true
-canonifyURLs = false
+# Use canonical URLs for GitHub Pages (site served from a repository subpath)
+relativeURLs = false
+canonifyURLs = true
