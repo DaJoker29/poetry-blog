@@ -6,14 +6,21 @@
     <description>Recent content on Poetry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:27:06 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 19:10:01 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/poetry-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Things</title>
+      <link>http://localhost:1313/poetry-blog/poems/good-things/</link>
+      <pubDate>Sun, 16 Aug 2026 19:10:01 -0700</pubDate>
+      <guid>http://localhost:1313/poetry-blog/poems/good-things/</guid>
+      <description></description>
+    </item>
     <item>
       <title>In Limerence</title>
       <link>http://localhost:1313/poetry-blog/poems/in-limerence/</link>
       <pubDate>Sat, 15 Aug 2026 21:27:06 -0700</pubDate>
       <guid>http://localhost:1313/poetry-blog/poems/in-limerence/</guid>
-      <description></description>
+      <description>It’s never about them. It’s never about the other person. It’s about how we feel towards ourselves in their presence. In limerence, we try to work up the courage to say, “I love you.” When what we mean to say is, “I love myself when I’m with you.”&#xA;Humans are strange creatures; Their hearts possess the unique ability to turn scars into flowers, flowers which only bloom in the light of another.</description>
     </item>
     <item>
       <title>Elder Dragon</title>
